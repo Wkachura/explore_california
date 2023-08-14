@@ -7,5 +7,6 @@ log/*.loglog/*.log.[0-9]
 assets/photoshop/
 assets/videos/
 !assets/videos/tour_*.mp4
-
+db_config.txt 
+  
 access.log
